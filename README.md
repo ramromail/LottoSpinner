@@ -4,10 +4,10 @@ This is a little iOS app all with SwiftUI. So it only works with the iOS 13+
 This LottoSpinner game/app is based on video tutorial by [CodeWithChris](https://www.youtube.com/watch?v=VlhcNR7Qrno).
 
 # Ipad screenshot
-![](Screen Shot - iPad.png)
+![](ipad.png)
 
 #Iphone screenshot
-![](ScreenShot - iPhone.png)
+![](iphone.png)
 
 
 ## Requirements
