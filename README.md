@@ -6,7 +6,7 @@ This LottoSpinner game/app is based on video tutorial by [CodeWithChris](https:/
 # Ipad screenshot
 ![](ipad.png)
 
-#Iphone screenshot
+# Iphone screenshot
 ![](iphone.png)
 
 
